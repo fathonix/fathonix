@@ -48,7 +48,7 @@ declare -A desc=(
   <a href="https://qemu.org" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/qemu.svg" title="QEMU" alt="QEMU" width="40" height="40"/></a>&nbsp;
   <a href="https://libvirt.org" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/libvirt.svg" title="libvirt" alt="libvirt" width="40" height="40"/></a>&nbsp;
   <a href="https://virtualbox.org" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/virtualbox.svg" title="VirtualBox" alt="VirtualBox" width="40" height="40"/></a>&nbsp;
-  <a href="https://vmware.com" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/vmware.svg" title="VMware Workstation Player" alt="VMware Workstation Player" width="40" height="40"/></a>&nbsp;
+  <a href="https://vmware.com/products/workstation-player" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/vmware.svg" title="VMware Workstation Player" alt="VMware Workstation Player" width="40" height="40"/></a>&nbsp;
   <a href="https://figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/></a>&nbsp;
   <a href="https://inkscape.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/></a>&nbsp;
 </div>

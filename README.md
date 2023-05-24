@@ -44,6 +44,7 @@ declare -A desc=(
   <a href="https://archlinux.org/" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/archlinux.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/></a>&nbsp;
   <a href="https://raspberrypi.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/></a>&nbsp;
   <a href="https://apple.com/macos" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/macos.svg" title="macOS" alt="macOS" width="40" height="40"/></a>&nbsp;
+  <a href="https://brew.sh" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/homebrew.svg" title="Homebrew" alt="Homebrew" width="40" height="40"/></a>&nbsp;
   <a href="https://gnu.org/software/bash" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/bash.svg" title="Bash" alt="Bash" width="40" height="40"/></a>&nbsp;
   <a href="https://qemu.org" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/qemu.svg" title="QEMU" alt="QEMU" width="40" height="40"/></a>&nbsp;
   <a href="https://libvirt.org" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/libvirt.svg" title="libvirt" alt="libvirt" width="40" height="40"/></a>&nbsp;

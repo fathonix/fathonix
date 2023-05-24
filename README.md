@@ -41,6 +41,7 @@ declare -A desc=(
   <a href="https://windows.com" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/windows.svg" title="Windows" alt="Windows" width="40" height="40"/></a>&nbsp;
   <a href="https://linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/></a>&nbsp;
   <a href="https://debian.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/></a>&nbsp;
+  <a href="https://makedeb.org/" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/makedeb.svg" title="makedeb" alt="makedeb" width="40" height="40"/></a>&nbsp;
   <a href="https://archlinux.org/" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/archlinux.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/></a>&nbsp;
   <a href="https://raspberrypi.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/></a>&nbsp;
   <a href="https://apple.com/macos" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/macos.svg" title="macOS" alt="macOS" width="40" height="40"/></a>&nbsp;

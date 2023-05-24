@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="">
+  <img src="assets/img/banner.png" title="Banner" alt="Banner">
   <h1>Hello! I'm Aldo 👋</h1>
 </div>
 
 ```bash
 declare -A desc=(
-  ["title"]="Computer hobbyist and recently coder"
+  ["title"]="Computer hobbyist, open-source enthusiast and recently coder"
   ["hobbies"]=(
     "Porting software to untouched platforms (like Linux apps to macOS, x86 apps to ARM)"
     "Writing shell and build scripts to automate and integrate stuff"

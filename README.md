@@ -38,6 +38,7 @@ declare -A desc=(
   <a href="https://php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/></a>&nbsp;
   <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/laravel.svg" title="Laravel" alt="Laravel" width="40" height="40"/></a>&nbsp;
   <a href="https://mariadb.org" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/mariadb.svg" title="MariaDB" alt="MariaDB" width="40" height="40"/></a>&nbsp;
+  <a href="https://nginx.org" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/nginx.svg" title="NGINX" alt="NGINX" width="40" height="40"/></a>&nbsp;
   <a href="https://windows.com" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/windows.svg" title="Windows" alt="Windows" width="40" height="40"/></a>&nbsp;
   <a href="https://linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/></a>&nbsp;
   <a href="https://debian.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/></a>&nbsp;

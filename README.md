@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="assets/img/banner.png" title="Banner" alt="Banner">
   <h1>Hello! I'm Aldo 👋</h1>
 </div>
 

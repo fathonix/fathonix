@@ -34,6 +34,7 @@ declare -A desc=(
   <a href="https://flutter.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/></a>&nbsp;
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/></a>&nbsp;
   <a href="https://python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.open-std.org/jtc1/sc22/wg14" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/c.svg" title="C" alt="C" width="40" height="40"/></a>&nbsp;
   <a href="https://isocpp.org" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/cplusplus.svg" title="C++" alt="C++" width="40" height="40"/></a>&nbsp;
   <a href="https://rust-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/ferris.svg" title="Rust" alt="Rust" width="40" height="40"/></a>&nbsp;
   <a href="https://php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/></a>&nbsp;

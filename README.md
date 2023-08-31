@@ -16,8 +16,8 @@ declare -A desc=(
 ```
 <br>
 
-## Contact me
-<div align="left">
+<h2 align="center"><strong>Contact me</strong></h2>
+<div align="center">
   <a href="mailto:aldo.alfathoni@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/gmail.svg" title="Email" alt="Email" width="40" height="30"/></a>&nbsp;
   <a href="https://linkedin.com/in/aldo-alfathoni" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="30"/></a>&nbsp;
   <a href="https://facebook.com/albontangy" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/facebook.svg" title="Facebook" alt="Facebook" width="40" height="30"/></a>&nbsp;
@@ -26,7 +26,7 @@ declare -A desc=(
 </div>
 <br>
 
-## Things I play around
+<h2 align="center"><strong>Things I play around</strong></h2>
 <div align="center">
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/androidstudio.svg" title="Android" alt="Android" width="40" height="40"/></a>&nbsp;
   <a href="https://kotlinlang.org" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/kotlin.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/></a>&nbsp;

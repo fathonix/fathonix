@@ -56,9 +56,13 @@ declare -A desc=(
   <a href="https://inkscape.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/></a>&nbsp;
 </div>
 <br>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fathonix&show_icons=true&count_private=true&bg_color=00000000&text_color=70a5fd&hide_border=true&hide_rank=true"/>
+</div>
+<br>
+<div align="center">
   <a href="https://wakatime.com/@fathonix"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fathonix&show_icons=true&layout=compact&bg_color=00000000&text_color=70a5fd&hide_border=true&range=all_time"/> </a>
 </div>
 <i>* "Other" is me playing with Terminal lol</i>

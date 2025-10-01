@@ -20,7 +20,7 @@ declare -A desc=(
 <div align="center">
   <a href="mailto:aldo.alfathoni@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/gmail.svg" title="Email" alt="Email" width="40" height="30"/></a>&nbsp;
   <a href="https://linkedin.com/in/aldo-alfathoni" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="30"/></a>&nbsp;
-  <a href="https://t.me/realfathonix" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/telegram.svg" title="Telegram" alt="Telegram" width="40" height="30"/></a>&nbsp;
+  <a href="https://t.me/fathonix" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/telegram.svg" title="Telegram" alt="Telegram" width="40" height="30"/></a>&nbsp;
 </div>
 <br>
 
